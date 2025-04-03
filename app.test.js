@@ -1,4 +1,4 @@
-const { add } = require('./feature/githubpages/app');
+const { add } = require('./app');
 
 describe('add', () => {
   test('should return the sum of two numbers', () => {
